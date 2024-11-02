@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar Gupta</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek34561&label=Profile%20views&color=0e75b6&style=flat" alt="vivek34561" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek34561" alt="vivek34561" /></a> </p>
@@ -14,6 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <a href="https://kaggle.com/vivekkumargupta123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vivekkumargupta123" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vivek3749" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vivek3749" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vivekgupta1738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekgupta1738" height="30" width="40" /></a>
