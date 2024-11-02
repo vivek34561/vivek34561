@@ -1,4 +1,4 @@
-![logo](https://github.com/vivek34561/vivek34561/blob/main/Github%20Banner.png)
+![logo](https://github.com/vivek34561/vivek34561/blob/main/DALL%C2%B7E%202024-11-02%2022.18.20%20-%20A%20high-quality%20image%20for%20a%20GitHub%20profile%20banner%20with%20coding%20elements%2C%20featuring%20the%20name%20'Vivek%20Kumar%20Gupta'%20in%20a%20modern%2C%20tech-inspired%20font.%20The%20bac.webp)
 <h1 align="center">Hi 👋, I'm Vivek Kumar Gupta</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
