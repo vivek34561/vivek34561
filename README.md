@@ -13,9 +13,9 @@
 ###
 
 <p align="left">
-  [cite_start]I'm a Mathematics and Computing student at the Indian Institute of Information Technology (IIIT) Bhagalpur, passionate about building intelligent, AI-driven applications. [cite: 8] <br>
-  [cite_start]My primary focus is on Machine Learning, Deep Learning, NLP (including RAG and LLMs), and MLOps. [cite: 14] <br>
-  [cite_start]💬 Ask me about Python, LangChain, FastAPI, TensorFlow, and building end-to-end AI projects. [cite: 10, 14]
+  I'm a Mathematics and Computing student at the Indian Institute of Information Technology (IIIT) Bhagalpur, passionate about building intelligent, AI-driven applications.  <br>
+  My primary focus is on Machine Learning, Deep Learning, NLP (including RAG and LLMs), and MLOps. [cite: 14] <br>
+  💬 Ask me about Python, LangChain, FastAPI, TensorFlow, and building end-to-end AI projects. [cite: 10, 14]
 </p>
 
 ###
