@@ -1,4 +1,18 @@
+# 💫 Hi 👋, I'm Vivek Kumar Gupta
+**A passionate AI/ML Engineer 
 
+Email Me 👉 ✉️ **vivekgupta3749@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🌱 **I’m currently learning:** AWS Deployment
+- 🚀 **I’m currently working on Project:** Lovable Clone using the LangGraph.
+- 👯 **I’m looking to collaborate on:** Generative AI, NLP applications, and ML model deployment projects.
+- 🤔 **I’m looking for help with:** AI Resume Analyzer
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** vivekgupta3749@gmail.com
+- 😄 **Pronouns:** Vivek 
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivekgupta_1202) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-gupta-0400452b6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivekgupta3749@gmail.com) 
 
