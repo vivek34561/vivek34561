@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Vivek Kumar Gupta
-**A passionate AI/ML Engineer 
+- 🧑‍💻 **B.Tech student in Mathematics and Computing at IIIT Bhagalpur, with strong foundations in machine learning, deep learning, and large language models. My    interests lie in Generative AI, RAG systems, and Agentic AI pipelines that connect reasoning, retrieval, and real-world actions.**
 
 Email Me 👉 ✉️ **vivekgupta3749@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
