@@ -1,5 +1,11 @@
 # 💫 Hi 👋, I'm Vivek Kumar Gupta
-- 🧑‍💻 **B.Tech student in Mathematics and Computing at IIIT Bhagalpur, with strong foundations in machine learning, deep learning, and large language models. My    interests lie in Generative AI, RAG systems, and Agentic AI pipelines that connect reasoning, retrieval, and real-world actions.**
+Currently pursuing B.Tech in Mathematics and Computing at IIIT Bhagalpur.  
+I build, optimize, and deploy machine learning models for prediction, classification, and recommendation systems.  
+
+🔹 Experienced with TensorFlow, Scikit-learn, XGBoost, CatBoost, and VGG16  
+🔹 Proficient in MLOps tools — MLflow, DVC, Docker, and CI/CD pipelines  
+🔹 Built end-to-end ML projects: CardioCare AI, AI Resume Analyzer, and Crop Advisory System  
+🔹 Interested in Generative AI, transfer learning, and applied AI research
 
 Email Me 👉 ✉️ **vivekgupta3749@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
