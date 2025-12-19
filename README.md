@@ -54,9 +54,6 @@ From training ML models to orchestrating AI agents, I enjoy working at the inter
 #### ⚡ Fun Fact
 I enjoy building AI systems so much that debugging feels like a puzzle, not a problem 😄
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vivek34561&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivekgupta_1202) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-gupta-0400452b6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivekgupta3749@gmail.com) 
