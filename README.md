@@ -1,4 +1,4 @@
-# ✨🚀 Hey there, I’m Vivek Kumar Gupta! 💻🤖
+## ✨ Hey there, I’m Vivek Kumar Gupta! 💻
 An AI enthusiast with a builder’s mindset — I love turning ideas into intelligent systems, data into decisions, and models into real-world products.
 From training ML models to orchestrating AI agents, I enjoy working at the intersection of logic, creativity, and impact.
 
