@@ -48,10 +48,10 @@ From training ML models to orchestrating AI agents, I enjoy working at the inter
 
 🔹 🛠️ Building meaningful AI products together
 
-📫 Reach Me At
+#### 📫 Reach Me At
 📧 vivekgupta3749@gmail.com
 
-⚡ Fun Fact
+#### ⚡ Fun Fact
 I enjoy building AI systems so much that debugging feels like a puzzle, not a problem 😄
 
 ## 🏆 GitHub Trophies
