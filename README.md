@@ -4,34 +4,48 @@ From training ML models to orchestrating AI agents, I enjoy working at the inter
 
 # 🌟 What I’m Passionate About
 🔹 🧠 Machine Learning & Deep Learning — prediction, classification, and beyond
+
 🔹 🤖 Generative AI & Agentic Systems — LangGraph, LangChain, RAG workflows
+
 🔹 📊 Data + Algorithms — strong foundations in DSA and mathematical thinking
+
 🔹 🛠️ MLOps & Deployment — taking models from notebook to production
+
 🔹 🌱 Applied AI — solving real problems, not just building demos  
 
 # 🔥 Tech I Enjoy Working With
 🔹 🐍 Languages: Python, C++
 🔹 🤖 ML/DL: TensorFlow, Scikit-learn, XGBoost, CNNs (VGG16)
+
 🔹 🧩 GenAI & Agents: LangGraph, LangChain, Vector Databases
+
 🔹 📦 MLOps: MLflow, DVC, Docker, CI/CD
+
 🔹 🌐 Backend & Apps: FastAPI, Streamlit
 
 # 📚 Currently Exploring
 🔹 ☁️ AWS for scalable ML deployment
+
 🔹 🤖 Advanced GenAI systems & multi-agent workflows
+
 🔹 🧠 Building production-ready AI products
 
 
 # 🚀 Projects I’ve Built
 🔹 ❤️ CardioCare AI — heart disease prediction & recommendations
+
 🔹 📄 AI Resume Analyzer — intelligent resume screening & interview prep
+
 🔹 🌾 Crop Advisory System — ML-powered agricultural insights
+
 🔹 💞 Lovable Clone — agent-based AI using LangGraph
 
 
 # 🤝 Open To
 🔹 👯 Collaborations on Generative AI, NLP, and ML deployment
+
 🔹 💬 Tech discussions, project ideas, and problem-solving
+
 🔹 🛠️ Building meaningful AI products together
 
 📫 Reach Me At
