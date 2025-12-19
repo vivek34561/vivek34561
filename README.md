@@ -1,22 +1,44 @@
-# 💫 Hi 👋, I'm Vivek Kumar Gupta
-Currently pursuing B.Tech in Mathematics and Computing at IIIT Bhagalpur.  
-I build, optimize, and deploy machine learning models for prediction, classification, and recommendation systems.  
+# ✨🚀 Hey there, I’m Vivek Kumar Gupta! 💻🤖
+An AI enthusiast with a builder’s mindset — I love turning ideas into intelligent systems, data into decisions, and models into real-world products.
+From training ML models to orchestrating AI agents, I enjoy working at the intersection of logic, creativity, and impact.
 
-🔹 Experienced with TensorFlow, Scikit-learn, Random Forest, XGBoost, and VGG16  
-🔹 Proficient in MLOps tools — MLflow, DVC, Docker, and CI/CD pipelines  
-🔹 Built end-to-end ML projects: CardioCare AI, AI Resume Analyzer, and Crop Advisory System  
-🔹 Interested in Generative AI, transfer learning, and applied AI research
+# 🌟 What I’m Passionate About
+🔹 🧠 Machine Learning & Deep Learning — prediction, classification, and beyond
+🔹 🤖 Generative AI & Agentic Systems — LangGraph, LangChain, RAG workflows
+🔹 📊 Data + Algorithms — strong foundations in DSA and mathematical thinking
+🔹 🛠️ MLOps & Deployment — taking models from notebook to production
+🔹 🌱 Applied AI — solving real problems, not just building demos  
 
-Email Me 👉 ✉️ **vivekgupta3749@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+# 🔥 Tech I Enjoy Working With
+🔹 🐍 Languages: Python, C++
+🔹 🤖 ML/DL: TensorFlow, Scikit-learn, XGBoost, CNNs (VGG16)
+🔹 🧩 GenAI & Agents: LangGraph, LangChain, Vector Databases
+🔹 📦 MLOps: MLflow, DVC, Docker, CI/CD
+🔹 🌐 Backend & Apps: FastAPI, Streamlit
 
-- 🌱 **I’m currently learning:** AWS Deployment
-- 🚀 **I’m currently working on Project:** Lovable Clone using the LangGraph.
-- 👯 **I’m looking to collaborate on:** Generative AI, NLP applications, and ML model deployment projects.
-- 🤔 **I’m looking for help with:** AI Resume Analyzer
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** vivekgupta3749@gmail.com
-- 😄 **Pronouns:** Vivek 
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+# 📚 Currently Exploring
+🔹 ☁️ AWS for scalable ML deployment
+🔹 🤖 Advanced GenAI systems & multi-agent workflows
+🔹 🧠 Building production-ready AI products
+
+
+# 🚀 Projects I’ve Built
+🔹 ❤️ CardioCare AI — heart disease prediction & recommendations
+🔹 📄 AI Resume Analyzer — intelligent resume screening & interview prep
+🔹 🌾 Crop Advisory System — ML-powered agricultural insights
+🔹 💞 Lovable Clone — agent-based AI using LangGraph
+
+
+# 🤝 Open To
+🔹 👯 Collaborations on Generative AI, NLP, and ML deployment
+🔹 💬 Tech discussions, project ideas, and problem-solving
+🔹 🛠️ Building meaningful AI products together
+
+📫 Reach Me At
+📧 vivekgupta3749@gmail.com
+
+⚡ Fun Fact
+I enjoy building AI systems so much that debugging feels like a puzzle, not a problem 😄
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vivek34561&theme=radical&no-frame=false&no-bg=true&margin-w=4)
