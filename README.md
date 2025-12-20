@@ -2,7 +2,7 @@
 An AI enthusiast with a builder’s mindset — I love turning ideas into intelligent systems, data into decisions, and models into real-world products.
 From training ML models to orchestrating AI agents, I enjoy working at the intersection of logic, creativity, and impact.
 
-### 🌟 What I’m Passionate About
+## 🌟 What I’m Passionate About
 🔹 🧠 Machine Learning & Deep Learning — prediction, classification, and beyond
 
 🔹 🤖 Generative AI & Agentic Systems — LangGraph, LangChain, RAG workflows
@@ -13,7 +13,7 @@ From training ML models to orchestrating AI agents, I enjoy working at the inter
 
 🔹 🌱 Applied AI — solving real problems, not just building demos  
 
-### 🔥 Tech I Enjoy Working With
+## 🔥 Tech I Enjoy Working With
 🔹 🐍 Languages: Python, C++
 🔹 🤖 ML/DL: TensorFlow, Scikit-learn, XGBoost, CNNs (VGG16)
 
@@ -23,7 +23,7 @@ From training ML models to orchestrating AI agents, I enjoy working at the inter
 
 🔹 🌐 Backend & Apps: FastAPI, Streamlit
 
-### 📚 Currently Exploring
+## 📚 Currently Exploring
 🔹 ☁️ AWS for scalable ML deployment
 
 🔹 🤖 Advanced GenAI systems & multi-agent workflows
@@ -31,7 +31,7 @@ From training ML models to orchestrating AI agents, I enjoy working at the inter
 🔹 🧠 Building production-ready AI products
 
 
-### 🚀 Projects I’ve Built
+## 🚀 Projects I’ve Built
 🔹 ❤️ CardioCare AI — heart disease prediction & recommendations
 
 🔹 📄 AI Resume Analyzer — intelligent resume screening & interview prep
@@ -41,7 +41,7 @@ From training ML models to orchestrating AI agents, I enjoy working at the inter
 🔹 💞 Lovable Clone — agent-based AI using LangGraph
 
 
-### 🤝 Open To
+## 🤝 Open To
 🔹 👯 Collaborations on Generative AI, NLP, and ML deployment
 
 🔹 💬 Tech discussions, project ideas, and problem-solving
