@@ -15,6 +15,7 @@ From training ML models to orchestrating AI agents, I enjoy working at the inter
 
 ## 🔥 Tech I Enjoy Working With
 🔹 🐍 Languages: Python, C++
+
 🔹 🤖 ML/DL: TensorFlow, Scikit-learn, XGBoost, CNNs (VGG16)
 
 🔹 🧩 GenAI & Agents: LangGraph, LangChain, Vector Databases
