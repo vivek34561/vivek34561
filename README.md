@@ -1,5 +1,5 @@
 # ✨ Hey there, I’m Vivek Kumar Gupta! 💻
-### 🌐 https://resume-sepia-seven.vercel.app/
+### 🌐 https://porfolio-puce-nine.vercel.app/
 
 An AI enthusiast with a builder’s mindset — I love turning ideas into intelligent systems, data into decisions, and models into real-world products.
 From training ML models to orchestrating AI agents, I enjoy working at the intersection of logic, creativity, and impact.
